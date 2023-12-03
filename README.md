@@ -8,6 +8,7 @@ npm init for download nodemodules
 ### install dependencies- npm i dep_name which is in package.json file
 ### setup the mongodb database and update the connection string in server.js - 'mongodb://your-mongodb-connection-string',
 ### start server - npm server.js or nodemon server.js and server will start on http://localhost:3000.
+use /api for middleware
 
 Make sure to set up the API and database before using the Pizza Delivery System. You can then use tools like Postman to interact with the API endpoints.
 
